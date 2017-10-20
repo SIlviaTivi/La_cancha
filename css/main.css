@@ -1,0 +1,57 @@
+.box{
+  display: block;
+  background-color: #87B474;
+  border: 6px solid white;
+  }
+
+.b1{
+  padding: 230px ;
+  margin: 65px ;
+  }
+
+.b2{
+  padding:200px ;
+  margin: 100px ;
+  position: relative;
+  bottom: 35em;
+  }
+
+.right {
+  width: 100px;
+  height: 200px;
+  position: relative;
+  bottom: 62em;
+  left: 6.3em;
+  }
+
+ .left {
+  width: 100px;
+  height: 200px;
+  position: relative;
+  bottom: 75.7em;
+  left: 70em;
+  }
+
+  .circle {
+  width: 200px;
+  height: 200px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  position: relative;
+  bottom: 89.5em;
+  left: 35em;
+  }
+
+  .pelota{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    bottom: 100em;
+    left: 50em;
+    -moz-border-radius: 70%;
+    -webkit-border-radius: 70%;
+    border-radius: 70%;
+
+
+  }
